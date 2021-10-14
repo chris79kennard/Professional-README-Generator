@@ -51,7 +51,8 @@ function generateMarkdown(data) {
 
 
 ## Features
-    
+
+- ${data.features}
 
 `;
 }
