@@ -60,7 +60,7 @@ const questions = [
   {
     name: "collaborate_YN",
     type: "confirm",
-    message: "did you work on this alone?",
+    message: "did you work on this with anyone else?",
   },
   {
     name: "collaborators",
